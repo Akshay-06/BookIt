@@ -1,0 +1,294 @@
+{
+  "categories": [
+    {
+      "categoryId": 1001,
+      "name": "Best Sellers"
+    },
+    {
+      "categoryId": 1002,
+      "name": "Classics"
+    },
+    {
+      "categoryId": 1003,
+      "name": "Romance"
+    },
+    {
+      "categoryId": 1004,
+      "name": "Science Fiction"
+    },
+    {
+      "categoryId": 1005,
+      "name": "Mystery-Thriller"
+    },
+    {
+      "categoryId": 1006,
+      "name": "Fantasy"
+    },
+    {
+      "categoryId": 1007,
+      "name": "Horror"
+    },
+    {
+      "categoryId": 1008,
+      "name": "History"
+    }
+  ],
+  "books": [
+    {
+      "bookId": 1001,
+      "title": "2AM Thoughts",
+      "author": "Makenzie Campbell",
+      "price": 1119,
+      "isPublic": true,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1002,
+      "title": "The Pearl",
+      "author": "John Steinbeck",
+      "price": 1059,
+      "isPublic": false,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1003,
+      "title": "Last Train To Istanbul",
+      "author": "Ayse Kulin",
+      "price": 1099,
+      "isPublic": false,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1004,
+      "title": "For Whom the Bell Tolls",
+      "author": "Ernest Hemingway",
+      "price": 1239,
+      "isPublic": false,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1005,
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "price": 4,
+      "isPublic": false,
+      "categoryId": 1002
+    },
+    {
+      "bookId": 1006,
+      "title": "The Outsiders",
+      "author": "S E Hinton",
+      "price": 5,
+      "isPublic": true,
+      "categoryId": 1002
+    },
+    {
+      "bookId": 1007,
+      "title": "Lord of the Files",
+      "author": "William Golding",
+      "price": 148,
+      "isPublic": false,
+      "categoryId": 1002
+    },
+    {
+      "bookId": 1008,
+      "title": "The One and Only Ruby",
+      "author": "Katherine Applegate",
+      "price": 1413,
+      "isPublic": false,
+      "categoryId": 1002
+    },
+    {
+      "bookId": 1009,
+      "title": "A Court of Thorns and Roses",
+      "author": "Sarah J Maas",
+      "price": 1177,
+      "isPublic": false,
+      "categoryId": 1003
+    },
+    {
+      "bookId": 1010,
+      "title": "Twisted Love",
+      "author": "Ana Huang",
+      "price": 125,
+      "isPublic": false,
+      "categoryId": 1003
+    },
+    {
+      "bookId": 1011,
+      "title": "Things We Never Got Over",
+      "author": "Lucy Score",
+      "price": 789,
+      "isPublic": true,
+      "categoryId": 1003
+    },
+    {
+      "bookId": 1012,
+      "title": "Ugly Love",
+      "author": "Colleen Hoover",
+      "price": 3,
+      "isPublic": false,
+      "categoryId": 1003
+    },
+    {
+      "bookId": 1013,
+      "title": "Imagine Me",
+      "author": "Tahereh Mafi",
+      "price": 888,
+      "isPublic": false,
+      "categoryId": 1004
+    },
+    {
+      "bookId": 1014,
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "price": 705,
+      "isPublic": false,
+      "categoryId": 1004
+    },
+    {
+      "bookId": 1015,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "price": 713,
+      "isPublic": false,
+      "categoryId": 1004
+    },
+    {
+      "bookId": 1016,
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "price": 918,
+      "isPublic": true,
+      "categoryId": 1004
+    },
+    {
+      "bookId": 1017,
+      "title": "All In",
+      "author": "Jennifer Lynn Barnes",
+      "price": 79,
+      "isPublic": true,
+      "categoryId": 1005
+    },
+    {
+      "bookId": 1018,
+      "title": "We Were Liars",
+      "author": "E Lockhart",
+      "price": 459,
+      "isPublic": false,
+      "categoryId": 1005
+    },
+    {
+      "bookId": 1019,
+      "title": "Escape Room",
+      "author": "Maren Stoffels",
+      "price": 693,
+      "isPublic": false,
+      "categoryId": 1005
+    },
+    {
+      "bookId": 1020,
+      "title": "The Fear",
+      "author": "Natasha Preston",
+      "price": 713,
+      "isPublic": false,
+      "categoryId": 1005
+    },
+    {
+      "bookId": 1021,
+      "title": "The City of Ember",
+      "author": "Jeanne DuPrau",
+      "price": 399,
+      "isPublic": true,
+      "categoryId": 1006
+    },
+    {
+      "bookId": 1022,
+      "title": "Amari and the Night Brothers",
+      "author": "B B Alston",
+      "price": 678,
+      "isPublic": false,
+      "categoryId": 1006
+    },
+    {
+      "bookId": 1023,
+      "title": "A Wrinkle in Time",
+      "author": "Madeleine L'Engle",
+      "price": 268,
+      "isPublic": false,
+      "categoryId": 1006
+    },
+    {
+      "bookId": 1024,
+      "title": "The Girl Who Drank the Moon",
+      "author": "Kelly Barnhill",
+      "price": 675,
+      "isPublic": false,
+      "categoryId": 1006
+    },
+    {
+      "bookId": 1025,
+      "title": "The Body",
+      "author": "Stephen King",
+      "price": 798,
+      "isPublic": true,
+      "categoryId": 1007
+    },
+    {
+      "bookId": 1026,
+      "title": "Home Before Dark",
+      "author": "Riley Sager",
+      "price": 1179,
+      "isPublic": false,
+      "categoryId": 1007
+    },
+    {
+      "bookId": 1027,
+      "title": "Does It Hurt",
+      "author": "H D Carlton",
+      "price": 1529,
+      "isPublic": false,
+      "categoryId": 1007
+    },
+    {
+      "bookId": 1028,
+      "title": "Run on Red",
+      "author": "Noelle W Ihli",
+      "price": 1131,
+      "isPublic": false,
+      "categoryId": 1007
+    },
+    {
+      "bookId": 1029,
+      "title": "Spare",
+      "author": "Prince Harry the Duke of Sussex",
+      "price": 2443,
+      "isPublic": true,
+      "categoryId": 1008
+    },
+    {
+      "bookId": 1030,
+      "title": "Night",
+      "author": "Elie Wiesel",
+      "price": 792,
+      "isPublic": false,
+      "categoryId": 1008
+    },
+    {
+      "bookId": 1031,
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "price": 109,
+      "isPublic": false,
+      "categoryId": 1008
+    },
+    {
+      "bookId": 1032,
+      "title": "The Trial of the Century",
+      "author": "Gregg Jarrett, Don Yaeger",
+      "price": 2069,
+      "isPublic": false,
+      "categoryId": 1008
+    }
+  ]
+}
